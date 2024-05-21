@@ -1,5 +1,5 @@
 <p align="center">
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HussGB&theme=dark&hide_border=true)](https://git.io/streak-stats)
+         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=HussGB&theme=dark&hide_border=true" />
 </p>
 <div align="center">
 &nbsp;&nbsp;&nbsp;💻 &nbsp;Full-Stack Programmer.
